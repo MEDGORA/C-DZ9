@@ -23,5 +23,4 @@ Console.Write("Введите число m: ");
 int numberM = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число n: ");
 int numberN = Convert.ToInt32(Console.ReadLine());
-//AkkermanFunction(numberM, numberN);
 Console.WriteLine(AkkermanFunction(numberM, numberN));
